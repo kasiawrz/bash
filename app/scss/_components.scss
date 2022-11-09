@@ -39,6 +39,7 @@
                 border:1px solid #{darken($value, 3%)}!important;
                 box-shadow: 0 3px 10px rgba($value, 0.5);
                 color: $white !important;
+                opacity: 85%;
             }
         }
         &.btn-outline-#{$color} {
